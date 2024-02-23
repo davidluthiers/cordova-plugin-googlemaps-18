@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidluthiers/cordova-plugin-googlemaps-latest"
+    "url": "git+https://github.com/davidluthiers/cordova-plugin-googlemaps-18"
   },
   "keywords": [
     "google",
